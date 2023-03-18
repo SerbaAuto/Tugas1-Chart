@@ -14,3 +14,5 @@ df = pd.DataFrame(
 )
 df
 
+st.line_chart(df)
+
